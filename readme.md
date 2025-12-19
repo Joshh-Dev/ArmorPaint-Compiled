@@ -1,3 +1,5 @@
+# This repository provides a precompiled build of Armorpaint!
+
 ![](https://armorpaint.org/img/git_root.jpg)
 
 armortools
