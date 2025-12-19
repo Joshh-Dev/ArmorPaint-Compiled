@@ -1,4 +1,4 @@
-# This repository provides a precompiled build of Armorpaint!
+# This repository provides a precompiled build of ArmorPaint.
 
 -------------------------------------------------------------
 
